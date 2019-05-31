@@ -1,0 +1,99 @@
+91::Alto de Coloane::170
+42::Ama Dablam::6812
+10::Annapurna::8091
+17::Annapurna II::7937
+32::Annapurna South::7219
+26::Apsarasas Kangri::7245
+88::Argonaut Peak::2576
+61::Bogda Feng::5445
+94::Britton Hill::105
+12::Broad Peak::8051
+92::Bukit Timah Hill::164
+71::Burchula::4364
+63::Cerro El Plomo::5434
+66::Chacaltaya::5421
+49::Changla::6721
+37::Chaukhamba::7138
+6::Cho Oyu::8201
+47::Cho Polu::6735
+40::Chongra Peak::6830
+96::Command Ridge::71
+74::Crestone Peak::4357
+90::Daisen::1729
+73::Dent Blanche::4357
+78::Dent d'Hérens::4171
+7::Dhaulagiri::8167
+25::Diran::7257
+20::Distaghil Sar::7885
+60::El Plomo::5450
+75::Fremont Peak::4189
+11::Gasherbrum I::8080
+13::Gasherbrum II::8035
+15::Gasherbrum III::7952
+18::Gasherbrum IV::7932
+34::Gasherbrum V::7147
+84::Grand Roc Noir::3582
+55::Gul Lasht Zom::6657
+16::Gyachung Kang::7952
+69::Haba Xueshan::5396
+33::Hardeol::7151
+19::Himalchuli::7893
+56::Huascarán Norte::6655
+80::Jbel Toubkal::4167
+100::Jing Mountain::0.6
+2::K2::8611
+3::Kangchenjunga::8586
+48::Kangju Kangri::6725
+22::Kangpenqing::7281
+31::Kangphu Kang::7204
+45::Kawagarbo::6740
+28::Khartaphu::7213
+57::Khumbutse::6640
+65::Kolahoi Peak::5425
+27::Langtang Lirung::7227
+30::Langtang Ri::7205
+93::Les Platons::143
+4::Lhotse::8516
+46::Llullaillaco::6739
+53::Lungser Kangri::6666
+5::Makalu::8485
+82::Makra Peak::3586
+23::Mana Peak::7272
+8::Manaslu::8163
+79::Mauna Loa::4171
+50::Mercedario::6720
+54::Meru Peak::6660
+43::Monte Pissis::6795
+1::Mount Everest::8848
+89::Mount Jefferson::1741
+58::Mount Kailash::6638
+62::Mount Little Xuebaoding::5443
+81::Mount Minto::4165
+51::Mount Pandim::6691
+98::Mount Pleasant::5
+67::Mount Pomiu::5413
+77::Mount Sidley::4181
+87::Mount Tavkvetili::2583
+97::Mount Tenp?::5
+85::Mount Timpanogos::3582
+76::Mount Warren::4182
+24::Muztagh Tower::7273
+9::Nanga Parbat::8126
+35::Nemjung::7140
+70::Nevado del Ruiz::5389
+44::Nevado Tres Cruces::6749
+52::Num Ri::6677
+38::Nun Kun::7135
+86::Pizzo Molare::2585
+64::Popocatépetl::5426
+95::Qurayn Abu al Bawl::103
+41::Reo Purgyil::6816
+68::Ritacuba Blanco::5410
+14::Shishapangma::8027
+83::Sierra Velluda::3585
+99::Tianzhong Mountain::3.6
+39::Tilicho Peak::7134
+29::Tongshanjiabu::7207
+36::Udren Zom::7140
+72::Uncompahgre Peak::4361
+59::Yerupajá::6635
